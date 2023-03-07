@@ -1,9 +1,9 @@
 {
   "name": "Actionkode-cs-devpack",
   "displayName": "Actionkode C# development pack",
-  "description": "vscode c# development exstention recommended by actionkode",
-  "version": "1.0",
-  "publisher": "DeejayDev",
+  "description": "vscode c# development extentions recommended by actionkode",
+  "version": "1.1.0",
+  "publisher": "Actionkode",
   "repository": "https://github.com/ActionKode/CS-extension-pack",
   "icon": "icon.png",
   "engines": {
@@ -22,8 +22,8 @@
     "usernamehw.errorlens",
     "patcx.vscode-nuget-gallery",
     "jRichardeau.vscode-vsproj",
-    "eamodio.gitlens"
-
-
+    "eamodio.gitlens",
+    "mintlify.document",
+    "tintoy.msbuild-project-tools"
   ]
 }
